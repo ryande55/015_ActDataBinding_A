@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe.config
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.pdb
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Form1.resources
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Properties.Resources.resources
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.exe
+C:\Users\ASUS\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.pdb
